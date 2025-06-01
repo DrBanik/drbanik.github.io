@@ -187,8 +187,8 @@ I am a Ph.D. candidate in **Animal Physiology** at the University of Idaho (expe
 
 Feel free to reach out for collaborations, questions, or speaking engagements:
 
-- ✉️ **Email:** [abanikanndamosope@gmail.com](mailto:abanikanndamosope@gmail.com)  
-- 📞 **Phone:** +1 (681) 439-0584  
+- ✉️ **Email:** [mosopea@uidaho.edu](mailto:mosopea@uidaho.edu)  
+- 📞 **Phone:** +1 (208) 352-2547
 - 🌐 **LinkedIn:** [linkedin.com/in/mosope-abanikannda-7a65b953](https://www.linkedin.com/in/mosope-abanikannda-7a65b953/)  
 - 🐙 **GitHub:** [github.com/LordBanik](https://github.com/LordBanik)
 
