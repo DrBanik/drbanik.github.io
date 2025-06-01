@@ -139,3 +139,58 @@ I am a Ph.D. candidate in **Animal Physiology** at the University of Idaho (expe
     <td><a href="#" target="_blank">Dataset</a></td>
   </tr>
 </table>
+
+## <a id="publications"></a>Publications
+
+<details>
+<summary><strong>Peer-Reviewed Articles</strong></summary>
+
+1. **Singha, K. P., Abanikannda, M. F., Ma, J., … & Kumar, V.** (2025).  
+   _Black soldier fly larvae meal improves rainbow trout performance on a high–soy diet._  
+   **Aquaculture**, 603, 742405.  
+   [🔗 DOI](https://doi.org/10.1016/j.aquaculture.2024.742405)
+
+2. **Abanikannda, M. F., Shiflett, M. B., Morais, A. R. C., … & Bledsoe, J. W.** (2024).  
+   _Pistachio by-product as functional ingredient in rainbow trout diets._  
+   **Antioxidants**, 13(11), 1280.  
+   [🔗 DOI](https://doi.org/10.3390/antiox13111280)
+
+3. **Idenyi, J. N., Abanikannda, M. F., Huber, D. H., … & Eya, J. C.** (2024).  
+   _Gut microbiota insights in rainbow trout fed plant proteins and camelina oil._  
+   **Journal of the World Aquaculture Society**, 55(2), e13028.
+
+</details>
+
+<details>
+<summary><strong>In Press & In Preparation</strong></summary>
+
+- **Ma, J., Singha, K. P., Abanikannda, M. F., … & Kumar, V.** (In Press).  
+  _Insect larvae meal improves health in rainbow trout._ **Journal of Fish Diseases**.
+
+- **Coca, Y., Sáez-Navarrete, C., Caro, D., … & Kibenge, F. S.** (In Press).  
+  _Biofilter microbiome dynamics in Atlantic salmon RAS._ **Aquaculture International**.
+
+- **Abanikannda, M. F., Arias Mejia, C. F., … & Zhuk, A.** (In Prep.).  
+  _Captive breeding practices in mainland clouded leopard genomics._
+
+- **Abanikannda, M. F., Masingale, J., VanLeuven, J. T., … & Bledsoe, J. W.** (In Prep.).  
+  _Genotype and Temperature Effects on Redband Trout Microbiome._
+
+</details>
+
+[Back to top](#)
+
+---
+
+## <a id="contact"></a>Contact
+
+Feel free to reach out for collaborations, questions, or speaking engagements:
+
+- ✉️ **Email:** [abanikanndamosope@gmail.com](mailto:abanikanndamosope@gmail.com)  
+- 📞 **Phone:** +1 (681) 439-0584  
+- 🌐 **LinkedIn:** [linkedin.com/in/mosope-abanikannda-7a65b953](https://www.linkedin.com/in/mosope-abanikannda-7a65b953/)  
+- 🐙 **GitHub:** [github.com/LordBanik](https://github.com/LordBanik)
+
+<footer style="text-align: center; margin-top: 3rem; font-size: 0.9rem; color: #666;">
+  © 2025 Mosope F. Abanikannda • Ph.D. Candidate, Animal Physiology • University of Idaho
+</footer>
