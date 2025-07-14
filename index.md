@@ -33,7 +33,7 @@ title: "Mosope Abanikannda – Home"
 <p align="center">
   <a href="https://github.com/DrBanik" target="_blank">
     <img
-      src="https://img.shields.io/badge/GitHub-@LordBanik-181717?style=flat&logo=github"
+      src="https://img.shields.io/badge/GitHub-@DrBanik-181717?style=flat&logo=github"
       alt="GitHub"
     />
   </a>
