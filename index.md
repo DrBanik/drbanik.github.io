@@ -26,11 +26,32 @@ title: "Mosope Abanikannda – Home"
 <p align="center">Ph.D. Candidate in Animal Physiology • Host–Microbiome Interactions • University of Idaho</p>
 
 <p align="center">
-  <a href="https://github.com/LordBanik" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-@LordBanik-181717?style=flat&logo=github)</a>
-  <a href="https://www.linkedin.com/in/mosope-abanikannda-7a65b953/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)</a>
-  <a href="https://orcid.org/0000-0003-0330-5793" target="_blank">![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0330--5793-green?style=flat&logo=orcid)</a>
-  <a href="https://scholar.google.com/citations?user=J70hhEgAAAAJ&hl=en" target="_blank">![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat&logo=google-scholar)</a>
+  <a href="https://github.com/LordBanik" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-@LordBanik-181717?style=flat&logo=github"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/mosope-abanikannda-7a65b953/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://orcid.org/0000-0003-0330-5793" target="_blank">
+    <img
+      src="https://img.shields.io/badge/ORCID-0000--0003--0330--5793-green?style=flat&logo=orcid"
+      alt="ORCID"
+    />
+  </a>
+  <a href="https://scholar.google.com/citations?user=J70hhEgAAAAJ&hl=en" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat&logo=google-scholar"
+      alt="Google Scholar"
+    />
+  </a>
 </p>
+
 
 ---
 
