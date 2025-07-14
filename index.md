@@ -18,7 +18,6 @@ title: "Mosope Abanikannda – Home"
 </nav>
 
 <!-- Hero Section -->
-Profile_pic
 <p align="center" style="margin-top: 2rem;">
   <img
     src="Profile_pic.jpg"
