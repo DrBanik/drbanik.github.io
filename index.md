@@ -18,8 +18,14 @@ title: "Mosope Abanikannda – Home"
 </nav>
 
 <!-- Hero Section -->
+Profile_pic
 <p align="center" style="margin-top: 2rem;">
-  <img src="https://avatars.githubusercontent.com/u/replace_with_your_github_id?v=4" alt="Mosope's Photo" width="150" style="border-radius: 50%;">
+  <img
+    src="Profile_pic.jpg"
+    alt="Mosope's Photo"
+    width="150"
+    style="border-radius: 50%;"
+  />
 </p>
 
 <h1 align="center">Mosope F. Abanikannda</h1>
