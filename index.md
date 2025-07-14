@@ -31,7 +31,7 @@ title: "Mosope Abanikannda – Home"
 <p align="center">Ph.D. Candidate in Animal Physiology • Host–Microbiome Interactions • University of Idaho</p>
 
 <p align="center">
-  <a href="https://github.com/LordBanik" target="_blank">
+  <a href="https://github.com/DrBanik" target="_blank">
     <img
       src="https://img.shields.io/badge/GitHub-@LordBanik-181717?style=flat&logo=github"
       alt="GitHub"
